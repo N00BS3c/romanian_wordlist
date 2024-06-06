@@ -1,1 +1,1 @@
-# A curated romanian wordlist, work in progress!
+# Work in progress!
